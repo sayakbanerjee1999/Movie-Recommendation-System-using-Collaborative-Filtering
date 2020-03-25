@@ -12,4 +12,14 @@ In the notebook, formula given by IMDB was used to calculate the best movies acc
 We are still in the stage developing it.
 
 ## Algorithm Used
-We have used Item Based Collaborative Filtering 
+### We have used Item Based Collaborative Filtering (Matrix Factorization approach)
+### Non-Negative Matrix Factorisation based
+
+## Tools Used
+1.Scipy
+
+2.Numpy
+
+3.Pandas
+
+4.python 3
